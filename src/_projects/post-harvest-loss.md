@@ -20,9 +20,9 @@ hero_image: /uploads/sprout-header.jpg
 featured_image: /uploads/dsc00457-2.jpg
 featured_video_url:
 resources:
-  - title:
+  - title: Summary Report
     description:
-    url:
+    url: 'https://rescue.box.com/s/675ir2joz1olmeduu7evbaq5bvjqwcac'
 articles:
   - title: Medium | Malnutrition
     url: 'https://medium.com/airbel/malnutrition/home'
