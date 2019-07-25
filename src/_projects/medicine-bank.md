@@ -7,16 +7,16 @@ stage: Generate Solutions
 focuses:
   - other
 geolocation:
-  region:
-  latitude:
-  longitude:
+  region: Jordan
+  latitude: '31.963158'
+  longitude: '35.930359'
 description: >-
-  Low-income people in Jordan often struggle to access the medicine they need.
-  This solution is aimed at making supply chains more efficient to reduce the
-  cost of pharmaceuticals.
-hero_image:
+  People with low income in Jordan often struggle to access the medicine they
+  need. This solution is aimed at making supply chains more efficient to reduce
+  the cost of pharmaceuticals.
+hero_image: /uploads/medicine-bank-hero.jpg
 featured_image:
-featured_video_url:
+featured_video_url: 'https://youtu.be/GlfqhwewyfE'
 resources:
   - title:
     description:
@@ -51,3 +51,5 @@ Thousands of Syrian refugees and vulnerable Jordanians with chronic illness have
 The medicine bank supply chain management solution helps patients with chronic disease access medicine approaching its expiry date at a discount. The medicine bank solution connects pharmaceutical producers and local pharmacies. Factories can sell medicine about to expire within 6 months at a discounted price. The solution is beneficial to producers, as they would otherwise have to pay to dispose of the medicine. The pharmacy then distributes medicine to pre-registered users at a 50 percent discount. A part of the profit is re-injected to finance and sustain the service.&nbsp;
 
 Initially, this solution will be piloted for medication for patients with chronic illness, as demand tends to be more predictable. Eventually, it could be expanded to other medicines, other medical products, and even non-medical supplies. It also has the potential to be scaled to other countries.&nbsp;
+
+*Medicine Bank was developed through the Mahali Lab in Jordan, an initiative that works with Syrian refugees and socially and economically vulnerable community members to identify and solve challenges posed by long-term displacement. Learn more [here](https://mahali.rescue.org/en/).*
